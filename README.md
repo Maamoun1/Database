@@ -1,2 +1,2 @@
-# Our-Project
+# Database
 This is our project
